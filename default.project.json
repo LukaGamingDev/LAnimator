@@ -4,6 +4,9 @@
     "$className": "Folder",
     "Plugin": {
       "$path": "src"
+    },
+    "Roact": {
+      "$path": "modules/Roact/src"
     }
   }
 }

@@ -1,8 +1,6 @@
-# Project place file
-/LAnimator.rbxlx
-
-# Project model file
-/LAnimator.rbmlx
+# Build files
+/*.rbxlx
+/*.rbxmx
 
 # Roblox Studio lock files
 /*.rbxlx.lock

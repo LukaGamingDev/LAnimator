@@ -1,0 +1,13 @@
+{
+    "name": "LAnimator Test Place",
+    "tree": {
+        "$className": "DataModel",
+
+        "ServerStorage": {
+            "$className": "ServerStorage",
+            "LAnimator": {
+                "$path": "default.project.json"
+            }
+        }
+    }
+}
